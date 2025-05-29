@@ -271,6 +271,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = seekers/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = HapticNav;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Required for obstacle detection";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app does not need access to your photo library";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -283,7 +284,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.academy.HapticNav;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hakmirzaev.HapticNav;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -304,6 +305,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = seekers/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = HapticNav;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Required for obstacle detection";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "This app does not need access to your photo library";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -316,7 +318,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.academy.HapticNav;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hakmirzaev.HapticNav;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
